@@ -5,7 +5,7 @@ HubSpot serves as a CRM software employed for customer support, marketing, and s
 
 We utilize HubSpot for engaging with customers via live chat and email. Additionally, we use it to connect with prospective customers generated from Apollo.io and Salesforce, nurturing strong customer relationships. HubSpot helps us manage customer interactions, automate processes, and facilitate deal closures. Furthermore, it aids in scaling inbound marketing efforts through content creation tools.
 
-### contants in Hubspot
+### contacts in Hubspot
 
 ![Screenshot (27)](https://github.com/lacreameo83/hubspot-CRM-Tool/assets/142677806/0145cf39-b1a7-4c3e-b1d5-967653a702e9)
 
